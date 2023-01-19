@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zotrics
-- 👀 I’m interested in programming and reverse engineering
-- 🌱 I’m currently learning front-end development
+- 👋 Hi, my name is Bogdan Velicu I'm currently 19 and learning computer science at the University of Bucharest.
+- 👀 I’m interested in front-end and mobile app development
+- 🌱 I have experience with the following programming languages: JavaScript, C#, HTML/CSS and C/C++
 
 <!---
 zotrics/zotrics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
