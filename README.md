@@ -1,4 +1,4 @@
-# Welcome on my Github page
+![Header](./github-header-image.png)
 
 #### 👋 Hi, my name is Bogdan Velicu I'm currently 19 and learning computer science at the University of Bucharest.
 #### 👀 I’m interested in front-end and mobile app development
