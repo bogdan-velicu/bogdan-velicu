@@ -1,13 +1,36 @@
 ![Header](./github-header-image.png)
 
-#### 👋 Hi, my name is Bogdan Velicu I'm currently 19 and learning computer science at the University of Bucharest.
-#### 👀 I’m interested in front-end and mobile app development
-#### 🌱 I have experience with the following programming languages: JavaScript, C#, HTML/CSS and C/C++
+# 👋 Hi, I'm Bogdan Velicu
 
-## Visitors
+I'm a passionate computer science student at the University of Bucharest, currently approaching my 20s. With a solid foundation in software development and a focus on front-end and mobile app development, I'm dedicated to honing my skills and contributing to innovative projects.
+
+## 🚀 About Me
+
+- 🎓 **Education:** Pursuing a Computer Science degree at the University of Bucharest.
+- 🌱 **Experience:** Over 5 years of hands-on experience in software development.
+- 💼 **Skills:** Proficient in JavaScript, C#, HTML/CSS, C/C++, Python, and React Native.
+- 🔍 **Interests:** Keen interest in exploring and mastering emerging technologies.
+
+## 🌐 Find Me Online
+
+- 📧 **Email:** [bboodd24@gmail.com](mailto:bboodd24@gmail.com)
+- 💼 **LinkedIn:** [Bogdan Velicu - LinkedIn](https://www.linkedin.com/in/bogdan-velicu-7882291b4/)
+- 🌐 **Website:** [www.bogdanvelicu.dev](https://www.bogdanvelicu.dev)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bogdan-velicu&show_icons=true&hide_border=true)
+
+## 🛠️ Projects
+
+- **Project 1:** Brief description and link
+- **Project 2:** Brief description and link
+- **Project 3:** Brief description and link
+
+## 📈 Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/bogdan-velicu/count.svg)
 
-<!---
-zotrics/zotrics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📞 Contact
+
+Feel free to reach out for collaboration, job opportunities, or just to connect!
