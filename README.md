@@ -25,10 +25,13 @@ I'm a passionate computer science student at the University of Bucharest, curren
 
 - [Discord Clone - Viscord (C#)](https://github.com/bogdan-velicu/Viscord)
 - [Doodle Jump (C++ / SFML)](https://github.com/bogdan-velicu/Doodle_Jump_SFML)
-- 4GPS Mobile App (React Native) [private]
-- 4GPS Website Translation Tool (Python) [private]
-- 4GPS Plate Detection (Python) [private]
-- 4GPS (Took part in) Optimal Route Generator (Python) [private]
+
+## 🏢 4GPS Projects
+- 4GPS Mobile App (React Native)
+- 4GPS Website Translation Tool (Python)
+- 4GPS Plate Detection (Python)
+- 4GPS Teltonika AVL Tool (Python)
+- 4GPS (Took part in) Optimal Route Generator (Python)
 
 ## 📈 Visitors
 
