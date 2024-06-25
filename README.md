@@ -15,11 +15,6 @@ I'm a passionate computer science student at the University of Bucharest, curren
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bogdan-velicu&show_icons=true&hide_border=true)
 
-## 🛠️ Projects
-
-- [Discord Clone - Viscord (C#)](https://github.com/bogdan-velicu/Viscord)
-- [Doodle Jump (C++ / SFML)](https://github.com/bogdan-velicu/Doodle_Jump_SFML)
-
 ## 🏢 4GPS Projects
 - 4GPS Mobile App (React Native)
 - 4GPS Website Translation Tool (Python)
