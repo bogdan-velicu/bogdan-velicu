@@ -11,12 +11,6 @@ I'm a passionate computer science student at the University of Bucharest, curren
 - 💼 **Skills:** Proficient in JavaScript, C#, HTML/CSS, C/C++, Python, and React Native.
 - 🔍 **Interests:** Keen interest in exploring and mastering emerging technologies.
 
-## 🌐 Find Me Online
-
-- 📧 **Email:** [bboodd24@gmail.com](mailto:bboodd24@gmail.com)
-- 💼 **LinkedIn:** [Bogdan Velicu - LinkedIn](https://www.linkedin.com/in/bogdan-velicu-7882291b4/)
-- 🌐 **Website:** [www.bogdanvelicu.dev](https://www.bogdanvelicu.dev)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bogdan-velicu&show_icons=true&hide_border=true)
@@ -39,4 +33,5 @@ I'm a passionate computer science student at the University of Bucharest, curren
 
 ## 📞 Contact
 
+- 📧 **Email:** [bboodd24@gmail.com](mailto:bboodd24@gmail.com)
 Feel free to reach out for collaboration, job opportunities, or just to connect!
