@@ -28,5 +28,6 @@ I'm a passionate computer science student at the University of Bucharest, curren
 
 ## 📞 Contact
 
-- 📧 **Email:** [bboodd24@gmail.com](mailto:bboodd24@gmail.com)
+📧 **Email:** [bboodd24@gmail.com](mailto:bboodd24@gmail.com)
+
 Feel free to reach out for collaboration, job opportunities, or just to connect!
