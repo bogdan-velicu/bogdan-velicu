@@ -15,33 +15,47 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Bogdan Velicu
+<h1 align="center">👋 Hi, I'm Bogdan Velicu</h1>
 
-I'm a passionate computer science student at the University of Bucharest, currently in my 20s. With a solid foundation in software development and a focus on front-end and mobile app development, I'm dedicated to honing my skills and contributing to innovative projects. I took part in many projects as a full stack software engineer developing both modern, stylish frontends and responsive, efficient backends. On this page you can view some of my personal accomplishments.
+<p align="center">I'm a passionate computer science student at the University of Bucharest, currently in my 20s. With a solid foundation in software development and a focus on front-end and mobile app development, I'm dedicated to honing my skills and contributing to innovative projects. I took part in many projects as a full stack software engineer developing both modern, stylish frontends and responsive, efficient backends. On this page you can view some of my personal accomplishments.</p>
 
-<hr>
+#
 
+<h3 align="center"> 💻 Here are some of the tech stacks I mostly work with:</h3>
 <p align="center">
-  <b>Here are some of the tech stacks I mostly work with:</b>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,supabase,firebase,cpp,cs,py,mysql,postgres" />
   </a>
 </p>
 
-## 🚀 About Me
+#
 
-- 🎓 **Education:** Pursuing a Computer Science degree at the University of Bucharest.
-- 🌱 **Experience:** Over 5 years of hands-on experience in software development.
-- 💼 **Skills:** Proficient in JavaScript, C#, HTML/CSS, C/C++, Python, and React Native.
-- 🔍 **Interests:** Keen interest in exploring and mastering emerging technologies.
+<h3 align="center"> 📖 Quote: </h3>
+<p align="center">
+  <a href="">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%94%20first%20we%20build%20them%2C%20then%20we%20pray.&author=Unknown" />
+  </a>
+</p>
+
+<h2 align="center"> 🚀 About Me </h2>
+
+<p align="center">
+ 🎓 <b>Education:</b> Pursuing a Computer Science degree at the University of Bucharest.
+</p>
+<p align="center">
+ 🌱 <b>Experience:</b> Over 5 years of hands-on experience in software development.
+</p>
+<p align="center">
+ 💼 <b>Skills:</b> Proficient in JavaScript, C#, HTML/CSS, C/C++, Python, and React Native.
+</p>
+<p align="center">
+ 🔍 <b>Interests:</b> Keen interest in exploring and mastering emerging technologies.
+</p>
 
 ## 📊 GitHub Stats
-<a href>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bogdan-velicu&theme=github_dark_dimmed&include_orgs=true" />
-</a>
-<a href>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan-velicu&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&include_orgs=true" />
-</a>
+
+![](https://github-readme-stats.vercel.app/api?username=bogdan-velicu&theme=github_dark_dimmed&include_orgs=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bogdan-velicu&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&include_orgs=true)
 
 ## 👨‍🎓 Personal Projects
 
