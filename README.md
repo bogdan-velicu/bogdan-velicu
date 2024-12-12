@@ -57,6 +57,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=bogdan-velicu&theme=github_dark_dimmed&include_orgs=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bogdan-velicu&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed&include_orgs=true)
 
+<!---
 ## 👨‍🎓 Personal Projects
 
 [![Viscord](https://bogdan-velicu.github.io/profile-stats/Viscord.svg)](https://github.com/bogdan-velicu/Viscord)
@@ -70,6 +71,7 @@
 [![4GPS-FCM-Alerts](https://bogdan-velicu.github.io/profile-stats/4GPS-FCM-Alerts.svg)](https://github.com/4GPS-International)
 [![4GPS-Plate-Recognition](https://bogdan-velicu.github.io/profile-stats/4GPS-Plate-Recognition.svg)](https://github.com/4GPS-International)
 [![4GPS-Projects](https://bogdan-velicu.github.io/profile-stats/And_More.svg)](https://github.com/4GPS-International)
+--->
 
 ## 📈 Visitors
 
