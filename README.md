@@ -42,8 +42,8 @@ Bucharest, Romania · open to remote (EU/US)</p>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bogdan-velicu&theme=github_dark_dimmed&include_orgs=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdan-velicu&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
 </p>
 
 ## 📞 Contact
